@@ -1,5 +1,5 @@
 - 👋 Hi, I’m CHINMAYA NAIK
-- 👀 I’m interested in doing a projects on Embedded system,iot,deeplearing,machine learning 
+- 👀 I’m interested in doing a projects on IOT, machine learning , Web development.
 - 🌱 I’m currently perusing  BE IN ELECTRONICS AND COMMUNICATION ENGINEERING 
 - 💞️ I’m looking to collaborate on PROJRECTS
 - 📫 How to reach me: http://www.linkedin.com/in/CHINMAYANAIK
